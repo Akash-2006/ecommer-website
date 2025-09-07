@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+#root{
+  font-family: "Inter",sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Ensure all clickable elements have pointer cursor */
+button,
+a,
+label,
+.cursor-pointer,
+[role="button"],
+[onclick],
+input[type="checkbox"],
+input[type="radio"],
+select,
+.clickable {
+  cursor: pointer;
+}
+
+/* Remove pointer cursor from disabled elements */
+button:disabled,
+input:disabled,
+select:disabled,
+.disabled {
+  cursor: not-allowed;
+}
+
+/* Smooth transitions for interactive elements */
+button,
+a,
+label {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Hover effects for buttons */
+button:not(:disabled):hover {
+  transform: translateY(-1px);
+}
+
+/* Focus styles for accessibility */
+button:focus,
+input:focus,
+select:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
