@@ -1,0 +1,5406 @@
+[
+  {
+    "id": "PROD-001",
+    "name": "Blouse",
+    "description": "Trendy blouse that combines style and functionality for the modern wardrobe.",
+    "price": 97.97,
+    "discountPrice": 80.66,
+    "countInStock": 30,
+    "sku": "TO-733",
+    "category": "Top Wear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "S",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Burgundy",
+      "Orange"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Cotton Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/blouse-1.jpg",
+        "altText": "Blouse Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-002",
+    "name": "Nightgown",
+    "description": "Trendy nightgown that combines style and functionality for the modern wardrobe.",
+    "price": 135.79,
+    "discountPrice": 126.87,
+    "countInStock": 50,
+    "sku": "SL-243",
+    "category": "Sleepwear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "L",
+      "XL",
+      "XS"
+    ],
+    "colors": [
+      "Black",
+      "Orange",
+      "Brown",
+      "Burgundy"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Leather",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/nightgown-2.jpg",
+        "altText": "Nightgown Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 34,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-003",
+    "name": "Sandals",
+    "description": "Classic sandals crafted from linen with attention to detail and quality.",
+    "price": 66.05,
+    "discountPrice": 60.76,
+    "countInStock": 40,
+    "sku": "FO-210",
+    "category": "Footwear",
+    "brand": "SportMax",
+    "sizes": [
+      "10.5",
+      "11.5",
+      "7",
+      "7.5",
+      "12"
+    ],
+    "colors": [
+      "Beige",
+      "Brown",
+      "Olive"
+    ],
+    "collections": "Summer Collection",
+    "material": "Linen",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sandals-3.jpg",
+        "altText": "Sandals Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 36,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-004",
+    "name": "Denim Jacket",
+    "description": "Classic denim jacket crafted from cotton with attention to detail and quality.",
+    "price": 137.63,
+    "discountPrice": 119.46,
+    "countInStock": 43,
+    "sku": "OU-156",
+    "category": "Outerwear",
+    "brand": "CasualStep",
+    "sizes": [
+      "XXL",
+      "S",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Green",
+      "Purple",
+      "Burgundy",
+      "White"
+    ],
+    "collections": "Business Casual",
+    "material": "Cotton",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/denim-jacket-4.jpg",
+        "altText": "Denim Jacket Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 8,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-005",
+    "name": "Cover-Up",
+    "description": "Contemporary cover-up designed with modern aesthetics and superior comfort in mind.",
+    "price": 94.77,
+    "discountPrice": 77.55,
+    "countInStock": 37,
+    "sku": "SW-691",
+    "category": "Swimwear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "M",
+      "XS",
+      "XL",
+      "L",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Gray",
+      "White",
+      "Olive"
+    ],
+    "collections": "Evening Collection",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/cover-up-5.jpg",
+        "altText": "Cover-Up Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-006",
+    "name": "Sweatpants",
+    "description": "High-quality sweatpants made from premium denim. Perfect for business casual occasions.",
+    "price": 149.01,
+    "discountPrice": 122.49,
+    "countInStock": 29,
+    "sku": "BO-690",
+    "category": "Bottom Wear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "M",
+      "XXL",
+      "XS",
+      "L",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Navy",
+      "Tan",
+      "Black",
+      "Burgundy"
+    ],
+    "collections": "Business Casual",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/sweatpants-6.jpg",
+        "altText": "Sweatpants Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 48,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-007",
+    "name": "Bodycon Dress",
+    "description": "Classic bodycon dress crafted from wool blend with attention to detail and quality.",
+    "price": 119.97,
+    "discountPrice": 98.76,
+    "countInStock": 48,
+    "sku": "DR-251",
+    "category": "Dresses",
+    "brand": "DenimStyle",
+    "sizes": [
+      "XL",
+      "XS",
+      "L"
+    ],
+    "colors": [
+      "Brown",
+      "Blue",
+      "Burgundy",
+      "Olive",
+      "Tan"
+    ],
+    "collections": "Essentials",
+    "material": "Wool Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/bodycon-dress-7.jpg",
+        "altText": "Bodycon Dress Image"
+      }
+    ],
+    "rating": 5.0,
+    "numReviews": 34,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-008",
+    "name": "Midi Dress",
+    "description": "High-quality midi dress made from premium cotton blend. Perfect for business casual occasions.",
+    "price": 145.41,
+    "discountPrice": 137.55,
+    "countInStock": 45,
+    "sku": "DR-576",
+    "category": "Dresses",
+    "brand": "DenimStyle",
+    "sizes": [
+      "XXL",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Yellow",
+      "Burgundy",
+      "Pink"
+    ],
+    "collections": "Business Casual",
+    "material": "Cotton Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/midi-dress-8.jpg",
+        "altText": "Midi Dress Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-009",
+    "name": "Watch",
+    "description": "Stylish watch featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 104.39,
+    "discountPrice": 86.69,
+    "countInStock": 40,
+    "sku": "AC-844",
+    "category": "Accessories",
+    "brand": "WinterWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Pink",
+      "Yellow",
+      "Tan"
+    ],
+    "collections": "Denim Collection",
+    "material": "Leather",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/watch-9.jpg",
+        "altText": "Watch Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 18,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-010",
+    "name": "Sleep Shorts",
+    "description": "Stylish sleep shorts featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 83.26,
+    "discountPrice": 73.73,
+    "countInStock": 12,
+    "sku": "SL-726",
+    "category": "Sleepwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "XXL",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Navy",
+      "Blue",
+      "Brown",
+      "Green",
+      "Olive"
+    ],
+    "collections": "Evening Collection",
+    "material": "Cashmere",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/sleep-shorts-10.jpg",
+        "altText": "Sleep Shorts Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 20,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-011",
+    "name": "Casual Sundress",
+    "description": "Stylish casual sundress featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 99.51,
+    "discountPrice": 84.26,
+    "countInStock": 18,
+    "sku": "DR-568",
+    "category": "Dresses",
+    "brand": "SilkLux",
+    "sizes": [
+      "XL",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "collections": "Winter Collection",
+    "material": "Polyester",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/casual-sundress-11.jpg",
+        "altText": "Casual Sundress Image"
+      }
+    ],
+    "rating": 3.5,
+    "numReviews": 9,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-012",
+    "name": "Backpack",
+    "description": "Contemporary backpack designed with modern aesthetics and superior comfort in mind.",
+    "price": 129.37,
+    "discountPrice": 104.48,
+    "countInStock": 60,
+    "sku": "AC-248",
+    "category": "Accessories",
+    "brand": "ActiveWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black",
+      "Tan",
+      "Blue"
+    ],
+    "collections": "Business Casual",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/backpack-12.jpg",
+        "altText": "Backpack Image"
+      }
+    ],
+    "rating": 3.5,
+    "numReviews": 39,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-013",
+    "name": "Slip-On Shoes",
+    "description": "Contemporary slip-on shoes designed with modern aesthetics and superior comfort in mind.",
+    "price": 34.25,
+    "discountPrice": 28.96,
+    "countInStock": 10,
+    "sku": "FO-359",
+    "category": "Footwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "7",
+      "7.5",
+      "9.5",
+      "11",
+      "8.5",
+      "12"
+    ],
+    "colors": [
+      "Gray",
+      "Olive"
+    ],
+    "collections": "Summer Collection",
+    "material": "Silk",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/slip-on-shoes-13.jpg",
+        "altText": "Slip-On Shoes Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 46,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-014",
+    "name": "Nightgown",
+    "description": "Contemporary nightgown designed with modern aesthetics and superior comfort in mind.",
+    "price": 87.53,
+    "discountPrice": 78.55,
+    "countInStock": 51,
+    "sku": "SL-778",
+    "category": "Sleepwear",
+    "brand": "SportMax",
+    "sizes": [
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Blue",
+      "Gray"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Leather",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/nightgown-14.jpg",
+        "altText": "Nightgown Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 20,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-015",
+    "name": "One-Piece Swimsuit",
+    "description": "Trendy one-piece swimsuit that combines style and functionality for the modern wardrobe.",
+    "price": 115.13,
+    "discountPrice": 105.49,
+    "countInStock": 31,
+    "sku": "SW-210",
+    "category": "Swimwear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "M",
+      "XXL",
+      "XS",
+      "XL",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Navy",
+      "Olive"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/one-piece-swimsuit-15.jpg",
+        "altText": "One-Piece Swimsuit Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 44,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-016",
+    "name": "Nightgown",
+    "description": "High-quality nightgown made from premium leather. Perfect for winter collection occasions.",
+    "price": 130.43,
+    "discountPrice": 107.2,
+    "countInStock": 16,
+    "sku": "SL-283",
+    "category": "Sleepwear",
+    "brand": "CasualStep",
+    "sizes": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Yellow",
+      "Burgundy",
+      "Gray"
+    ],
+    "collections": "Winter Collection",
+    "material": "Leather",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/nightgown-16.jpg",
+        "altText": "Nightgown Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 7,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-017",
+    "name": "Bootcut Jeans",
+    "description": "Contemporary bootcut jeans designed with modern aesthetics and superior comfort in mind.",
+    "price": 22.08,
+    "discountPrice": 17.99,
+    "countInStock": 11,
+    "sku": "BO-468",
+    "category": "Bottom Wear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "S",
+      "M",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Burgundy",
+      "Black"
+    ],
+    "collections": "Denim Collection",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/bootcut-jeans-17.jpg",
+        "altText": "Bootcut Jeans Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-018",
+    "name": "Chino Pants",
+    "description": "Trendy chino pants that combines style and functionality for the modern wardrobe.",
+    "price": 15.6,
+    "discountPrice": 13.63,
+    "countInStock": 49,
+    "sku": "BO-243",
+    "category": "Bottom Wear",
+    "brand": "WinterWear",
+    "sizes": [
+      "S",
+      "XXL",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Yellow",
+      "Beige",
+      "Tan"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/chino-pants-18.jpg",
+        "altText": "Chino Pants Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 46,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-019",
+    "name": "Sunglasses",
+    "description": "Contemporary sunglasses designed with modern aesthetics and superior comfort in mind.",
+    "price": 102.54,
+    "discountPrice": 93.59,
+    "countInStock": 18,
+    "sku": "AC-435",
+    "category": "Accessories",
+    "brand": "ActiveWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Green",
+      "Red",
+      "Gray",
+      "Beige",
+      "Pink"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/sunglasses-19.jpg",
+        "altText": "Sunglasses Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 31,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-020",
+    "name": "Capri Pants",
+    "description": "High-quality capri pants made from premium wool blend. Perfect for winter collection occasions.",
+    "price": 26.87,
+    "discountPrice": 24.55,
+    "countInStock": 50,
+    "sku": "BO-182",
+    "category": "Bottom Wear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "XS",
+      "L",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Tan",
+      "Green",
+      "Orange",
+      "Olive"
+    ],
+    "collections": "Winter Collection",
+    "material": "Wool Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/capri-pants-20.jpg",
+        "altText": "Capri Pants Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 9,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-021",
+    "name": "Cufflinks",
+    "description": "Stylish cufflinks featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 81.44,
+    "discountPrice": 69.52,
+    "countInStock": 57,
+    "sku": "FO-611",
+    "category": "Formal Wear",
+    "brand": "ComfyTees",
+    "sizes": [
+      "XXL",
+      "L",
+      "M",
+      "XL",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Gray",
+      "Black",
+      "Green"
+    ],
+    "collections": "Business Casual",
+    "material": "Cotton Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cufflinks-21.jpg",
+        "altText": "Cufflinks Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-022",
+    "name": "Sunglasses",
+    "description": "Contemporary sunglasses designed with modern aesthetics and superior comfort in mind.",
+    "price": 28.41,
+    "discountPrice": 26.98,
+    "countInStock": 39,
+    "sku": "AC-390",
+    "category": "Accessories",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Pink",
+      "Gray",
+      "Beige",
+      "Olive"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Cotton Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/sunglasses-22.jpg",
+        "altText": "Sunglasses Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 31,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-023",
+    "name": "Rashguard",
+    "description": "Trendy rashguard that combines style and functionality for the modern wardrobe.",
+    "price": 66.81,
+    "discountPrice": 53.57,
+    "countInStock": 49,
+    "sku": "SW-454",
+    "category": "Swimwear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy",
+      "Red",
+      "Brown",
+      "Gray"
+    ],
+    "collections": "Business Casual",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/rashguard-23.jpg",
+        "altText": "Rashguard Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 9,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-024",
+    "name": "Dress Shirt",
+    "description": "High-quality dress shirt made from premium linen. Perfect for formal wear occasions.",
+    "price": 62.07,
+    "discountPrice": 52.3,
+    "countInStock": 22,
+    "sku": "FO-221",
+    "category": "Formal Wear",
+    "brand": "LeatherCraft",
+    "sizes": [
+      "S",
+      "M",
+      "XL",
+      "XS",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Purple",
+      "Olive",
+      "Pink",
+      "Navy",
+      "Gray"
+    ],
+    "collections": "Formal Wear",
+    "material": "Linen",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/dress-shirt-24.jpg",
+        "altText": "Dress Shirt Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 28,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-025",
+    "name": "Dress Pants",
+    "description": "Contemporary dress pants designed with modern aesthetics and superior comfort in mind.",
+    "price": 122.28,
+    "discountPrice": 106.04,
+    "countInStock": 16,
+    "sku": "BO-940",
+    "category": "Bottom Wear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "XXL",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Red",
+      "Tan",
+      "Navy",
+      "Purple"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/dress-pants-25.jpg",
+        "altText": "Dress Pants Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 46,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-026",
+    "name": "Cufflinks",
+    "description": "Trendy cufflinks that combines style and functionality for the modern wardrobe.",
+    "price": 112.19,
+    "discountPrice": 93.93,
+    "countInStock": 51,
+    "sku": "FO-141",
+    "category": "Formal Wear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "XS",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Gray",
+      "White",
+      "Tan",
+      "Red",
+      "Olive"
+    ],
+    "collections": "Winter Collection",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/cufflinks-26.jpg",
+        "altText": "Cufflinks Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-027",
+    "name": "Leather Jacket",
+    "description": "Trendy leather jacket that combines style and functionality for the modern wardrobe.",
+    "price": 28.56,
+    "discountPrice": 26.38,
+    "countInStock": 47,
+    "sku": "OU-298",
+    "category": "Outerwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "L",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Olive",
+      "Black",
+      "Pink",
+      "Beige",
+      "Purple"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/leather-jacket-27.jpg",
+        "altText": "Leather Jacket Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 30,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-028",
+    "name": "Bomber Jacket",
+    "description": "High-quality bomber jacket made from premium denim. Perfect for essentials occasions.",
+    "price": 102.16,
+    "discountPrice": 88.54,
+    "countInStock": 26,
+    "sku": "OU-537",
+    "category": "Outerwear",
+    "brand": "ComfyTees",
+    "sizes": [
+      "S",
+      "XXL",
+      "M",
+      "L",
+      "XS",
+      "XL"
+    ],
+    "colors": [
+      "Yellow",
+      "Olive",
+      "Black"
+    ],
+    "collections": "Essentials",
+    "material": "Denim",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/bomber-jacket-28.jpg",
+        "altText": "Bomber Jacket Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-029",
+    "name": "Tie",
+    "description": "Stylish tie featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 86.23,
+    "discountPrice": 70.15,
+    "countInStock": 53,
+    "sku": "AC-467",
+    "category": "Accessories",
+    "brand": "SportMax",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Green",
+      "Black",
+      "Navy"
+    ],
+    "collections": "Business Casual",
+    "material": "Leather",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/tie-29.jpg",
+        "altText": "Tie Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 10,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-030",
+    "name": "Graphic T-Shirt",
+    "description": "Trendy graphic t-shirt that combines style and functionality for the modern wardrobe.",
+    "price": 27.34,
+    "discountPrice": 24.26,
+    "countInStock": 10,
+    "sku": "TO-363",
+    "category": "Top Wear",
+    "brand": "CasualStep",
+    "sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "S",
+      "XS"
+    ],
+    "colors": [
+      "Pink",
+      "Olive"
+    ],
+    "collections": "Formal Wear",
+    "material": "Denim",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/graphic-t-shirt-30.jpg",
+        "altText": "Graphic T-Shirt Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 31,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-031",
+    "name": "Ankle Boots",
+    "description": "Classic ankle boots crafted from polyester with attention to detail and quality.",
+    "price": 92.96,
+    "discountPrice": 75.83,
+    "countInStock": 27,
+    "sku": "FO-490",
+    "category": "Footwear",
+    "brand": "ElegantWear",
+    "sizes": [
+      "7.5",
+      "8",
+      "6",
+      "12"
+    ],
+    "colors": [
+      "Black",
+      "Burgundy",
+      "Blue"
+    ],
+    "collections": "Business Casual",
+    "material": "Polyester",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/ankle-boots-31.jpg",
+        "altText": "Ankle Boots Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 9,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-032",
+    "name": "Puffer Jacket",
+    "description": "Contemporary puffer jacket designed with modern aesthetics and superior comfort in mind.",
+    "price": 104.99,
+    "discountPrice": 87.46,
+    "countInStock": 16,
+    "sku": "OU-341",
+    "category": "Outerwear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "XS",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Gray",
+      "Beige",
+      "Olive"
+    ],
+    "collections": "Summer Collection",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/puffer-jacket-32.jpg",
+        "altText": "Puffer Jacket Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-033",
+    "name": "Blazer",
+    "description": "High-quality blazer made from premium canvas. Perfect for formal wear occasions.",
+    "price": 91.5,
+    "discountPrice": 78.42,
+    "countInStock": 34,
+    "sku": "OU-516",
+    "category": "Outerwear",
+    "brand": "CasualStep",
+    "sizes": [
+      "M",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Olive",
+      "Purple",
+      "Blue",
+      "Gray",
+      "Brown"
+    ],
+    "collections": "Formal Wear",
+    "material": "Canvas",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/blazer-33.jpg",
+        "altText": "Blazer Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 39,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-034",
+    "name": "Cufflinks",
+    "description": "Classic cufflinks crafted from viscose with attention to detail and quality.",
+    "price": 118.42,
+    "discountPrice": 108.71,
+    "countInStock": 19,
+    "sku": "FO-884",
+    "category": "Formal Wear",
+    "brand": "ComfyTees",
+    "sizes": [
+      "M",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Olive",
+      "Green",
+      "White",
+      "Navy",
+      "Black"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Viscose",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cufflinks-34.jpg",
+        "altText": "Cufflinks Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-035",
+    "name": "Hoodie",
+    "description": "Classic hoodie crafted from wool blend with attention to detail and quality.",
+    "price": 85.93,
+    "discountPrice": 70.73,
+    "countInStock": 24,
+    "sku": "TO-222",
+    "category": "Top Wear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "L",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Burgundy",
+      "Gray",
+      "Orange",
+      "Pink",
+      "White"
+    ],
+    "collections": "Essentials",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/hoodie-35.jpg",
+        "altText": "Hoodie Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 40,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-036",
+    "name": "Shirt Dress",
+    "description": "Contemporary shirt dress designed with modern aesthetics and superior comfort in mind.",
+    "price": 56.31,
+    "discountPrice": 45.08,
+    "countInStock": 11,
+    "sku": "DR-867",
+    "category": "Dresses",
+    "brand": "ElegantWear",
+    "sizes": [
+      "L",
+      "XL",
+      "XS",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Pink",
+      "Tan",
+      "Red",
+      "Purple"
+    ],
+    "collections": "Winter Collection",
+    "material": "Cotton Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/shirt-dress-36.jpg",
+        "altText": "Shirt Dress Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-037",
+    "name": "Wide Leg Pants",
+    "description": "Classic wide leg pants crafted from cashmere with attention to detail and quality.",
+    "price": 86.07,
+    "discountPrice": 80.36,
+    "countInStock": 42,
+    "sku": "BO-993",
+    "category": "Bottom Wear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "XXL",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "Blue",
+      "Beige"
+    ],
+    "collections": "Business Casual",
+    "material": "Cashmere",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/wide-leg-pants-37.jpg",
+        "altText": "Wide Leg Pants Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-038",
+    "name": "Compression Shirt",
+    "description": "Trendy compression shirt that combines style and functionality for the modern wardrobe.",
+    "price": 57.05,
+    "discountPrice": 53.27,
+    "countInStock": 48,
+    "sku": "AC-236",
+    "category": "Activewear",
+    "brand": "WinterWear",
+    "sizes": [
+      "XXL",
+      "L",
+      "S",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Navy",
+      "Purple",
+      "Black"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/compression-shirt-38.jpg",
+        "altText": "Compression Shirt Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 44,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-039",
+    "name": "Evening Dress",
+    "description": "Classic evening dress crafted from canvas with attention to detail and quality.",
+    "price": 23.75,
+    "discountPrice": 20.14,
+    "countInStock": 22,
+    "sku": "FO-754",
+    "category": "Formal Wear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "L",
+      "M",
+      "XXL",
+      "XS",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Yellow",
+      "Purple"
+    ],
+    "collections": "Denim Collection",
+    "material": "Canvas",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/evening-dress-39.jpg",
+        "altText": "Evening Dress Image"
+      }
+    ],
+    "rating": 4.3,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-040",
+    "name": "Bow Tie",
+    "description": "Contemporary bow tie designed with modern aesthetics and superior comfort in mind.",
+    "price": 121.44,
+    "discountPrice": 110.41,
+    "countInStock": 25,
+    "sku": "FO-100",
+    "category": "Formal Wear",
+    "brand": "LeatherCraft",
+    "sizes": [
+      "S",
+      "XL",
+      "L",
+      "XXL",
+      "M",
+      "XS"
+    ],
+    "colors": [
+      "Orange",
+      "Purple",
+      "Gray",
+      "Red"
+    ],
+    "collections": "Essentials",
+    "material": "Cashmere",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/bow-tie-40.jpg",
+        "altText": "Bow Tie Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 18,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-041",
+    "name": "Puffer Jacket",
+    "description": "Classic puffer jacket crafted from silk with attention to detail and quality.",
+    "price": 53.79,
+    "discountPrice": 50.76,
+    "countInStock": 27,
+    "sku": "OU-545",
+    "category": "Outerwear",
+    "brand": "LeatherCraft",
+    "sizes": [
+      "XXL",
+      "L",
+      "S",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Black",
+      "Green",
+      "Orange"
+    ],
+    "collections": "Formal Wear",
+    "material": "Silk",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/puffer-jacket-41.jpg",
+        "altText": "Puffer Jacket Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-042",
+    "name": "Pajama Set",
+    "description": "Contemporary pajama set designed with modern aesthetics and superior comfort in mind.",
+    "price": 124.76,
+    "discountPrice": 105.96,
+    "countInStock": 57,
+    "sku": "SL-209",
+    "category": "Sleepwear",
+    "brand": "ElegantWear",
+    "sizes": [
+      "XL",
+      "XXL",
+      "XS",
+      "L",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Tan",
+      "Orange",
+      "Brown"
+    ],
+    "collections": "Winter Collection",
+    "material": "Denim",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/pajama-set-42.jpg",
+        "altText": "Pajama Set Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 33,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-043",
+    "name": "Trench Coat",
+    "description": "High-quality trench coat made from premium denim. Perfect for athletic collection occasions.",
+    "price": 95.27,
+    "discountPrice": 87.94,
+    "countInStock": 51,
+    "sku": "OU-846",
+    "category": "Outerwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "M",
+      "XL",
+      "L",
+      "S",
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "Purple",
+      "Gray",
+      "Black",
+      "Brown"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Denim",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/trench-coat-43.jpg",
+        "altText": "Trench Coat Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 7,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-044",
+    "name": "Cover-Up",
+    "description": "Trendy cover-up that combines style and functionality for the modern wardrobe.",
+    "price": 19.22,
+    "discountPrice": 16.45,
+    "countInStock": 40,
+    "sku": "SW-276",
+    "category": "Swimwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "XXL",
+      "M",
+      "S",
+      "L",
+      "XS",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Yellow",
+      "Green",
+      "Beige"
+    ],
+    "collections": "Summer Collection",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/cover-up-44.jpg",
+        "altText": "Cover-Up Image"
+      }
+    ],
+    "rating": 5.0,
+    "numReviews": 5,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-045",
+    "name": "Palazzo Pants",
+    "description": "Trendy palazzo pants that combines style and functionality for the modern wardrobe.",
+    "price": 41.57,
+    "discountPrice": 36.29,
+    "countInStock": 28,
+    "sku": "BO-375",
+    "category": "Bottom Wear",
+    "brand": "LeatherCraft",
+    "sizes": [
+      "S",
+      "M",
+      "XS",
+      "L"
+    ],
+    "colors": [
+      "Navy",
+      "Beige"
+    ],
+    "collections": "Winter Collection",
+    "material": "Leather",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/palazzo-pants-45.jpg",
+        "altText": "Palazzo Pants Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 41,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-046",
+    "name": "Track Jacket",
+    "description": "Stylish track jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 106.04,
+    "discountPrice": 100.21,
+    "countInStock": 59,
+    "sku": "AC-191",
+    "category": "Activewear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "XL",
+      "S",
+      "XS"
+    ],
+    "colors": [
+      "Gray",
+      "Beige",
+      "Navy"
+    ],
+    "collections": "Summer Collection",
+    "material": "Denim",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/track-jacket-46.jpg",
+        "altText": "Track Jacket Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-047",
+    "name": "Sweater Dress",
+    "description": "Trendy sweater dress that combines style and functionality for the modern wardrobe.",
+    "price": 83.67,
+    "discountPrice": 70.45,
+    "countInStock": 19,
+    "sku": "DR-148",
+    "category": "Dresses",
+    "brand": "WinterWear",
+    "sizes": [
+      "S",
+      "XXL",
+      "XS",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Purple",
+      "Beige",
+      "Red"
+    ],
+    "collections": "Summer Collection",
+    "material": "Spandex Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/sweater-dress-47.jpg",
+        "altText": "Sweater Dress Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 45,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-048",
+    "name": "Gloves",
+    "description": "Contemporary gloves designed with modern aesthetics and superior comfort in mind.",
+    "price": 73.06,
+    "discountPrice": 69.33,
+    "countInStock": 11,
+    "sku": "AC-828",
+    "category": "Accessories",
+    "brand": "ElegantWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Brown",
+      "Black",
+      "White",
+      "Red"
+    ],
+    "collections": "Evening Collection",
+    "material": "Viscose",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/gloves-48.jpg",
+        "altText": "Gloves Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-049",
+    "name": "Formal Blazer",
+    "description": "Classic formal blazer crafted from spandex blend with attention to detail and quality.",
+    "price": 118.99,
+    "discountPrice": 100.33,
+    "countInStock": 11,
+    "sku": "FO-722",
+    "category": "Formal Wear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Burgundy",
+      "Black",
+      "White",
+      "Blue",
+      "Tan"
+    ],
+    "collections": "Evening Collection",
+    "material": "Spandex Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/formal-blazer-49.jpg",
+        "altText": "Formal Blazer Image"
+      }
+    ],
+    "rating": 5.0,
+    "numReviews": 19,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-050",
+    "name": "Shirt Dress",
+    "description": "Trendy shirt dress that combines style and functionality for the modern wardrobe.",
+    "price": 60.62,
+    "discountPrice": 49.53,
+    "countInStock": 45,
+    "sku": "DR-392",
+    "category": "Dresses",
+    "brand": "Modern Fit",
+    "sizes": [
+      "M",
+      "XS",
+      "S",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Yellow",
+      "Red",
+      "Gray",
+      "Brown",
+      "Olive"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/shirt-dress-50.jpg",
+        "altText": "Shirt Dress Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 8,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-051",
+    "name": "Sleep Shirt",
+    "description": "Contemporary sleep shirt designed with modern aesthetics and superior comfort in mind.",
+    "price": 89.04,
+    "discountPrice": 73.21,
+    "countInStock": 58,
+    "sku": "SL-304",
+    "category": "Sleepwear",
+    "brand": "SportMax",
+    "sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "L",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Gray",
+      "Blue",
+      "Orange"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Silk",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/sleep-shirt-51.jpg",
+        "altText": "Sleep Shirt Image"
+      }
+    ],
+    "rating": 3.5,
+    "numReviews": 41,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-052",
+    "name": "Camisole Set",
+    "description": "Stylish camisole set featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 27.71,
+    "discountPrice": 24.25,
+    "countInStock": 31,
+    "sku": "SL-167",
+    "category": "Sleepwear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "L",
+      "XL",
+      "XS",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Pink",
+      "Burgundy"
+    ],
+    "collections": "Formal Wear",
+    "material": "Canvas",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/camisole-set-52.jpg",
+        "altText": "Camisole Set Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 45,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-053",
+    "name": "Tuxedo",
+    "description": "High-quality tuxedo made from premium wool blend. Perfect for summer collection occasions.",
+    "price": 100.6,
+    "discountPrice": 80.99,
+    "countInStock": 39,
+    "sku": "FO-839",
+    "category": "Formal Wear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "L",
+      "S",
+      "XL",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Green",
+      "Pink",
+      "Beige"
+    ],
+    "collections": "Summer Collection",
+    "material": "Wool Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/tuxedo-53.jpg",
+        "altText": "Tuxedo Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-054",
+    "name": "Leather Boots",
+    "description": "High-quality leather boots made from premium cotton. Perfect for summer collection occasions.",
+    "price": 134.06,
+    "discountPrice": 109.78,
+    "countInStock": 22,
+    "sku": "FO-849",
+    "category": "Footwear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "9.5",
+      "11.5",
+      "11",
+      "6",
+      "7.5",
+      "7",
+      "12",
+      "9"
+    ],
+    "colors": [
+      "Purple",
+      "Tan"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/leather-boots-54.jpg",
+        "altText": "Leather Boots Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 14,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-055",
+    "name": "Pajama Set",
+    "description": "Trendy pajama set that combines style and functionality for the modern wardrobe.",
+    "price": 139.69,
+    "discountPrice": 121.9,
+    "countInStock": 24,
+    "sku": "SL-672",
+    "category": "Sleepwear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Beige",
+      "Yellow",
+      "White",
+      "Green",
+      "Tan"
+    ],
+    "collections": "Evening Collection",
+    "material": "Cotton",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/pajama-set-55.jpg",
+        "altText": "Pajama Set Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 49,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-056",
+    "name": "Board Shorts",
+    "description": "Classic board shorts crafted from polyester with attention to detail and quality.",
+    "price": 134.16,
+    "discountPrice": 120.12,
+    "countInStock": 46,
+    "sku": "SW-329",
+    "category": "Swimwear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "XL",
+      "L",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "Purple",
+      "Pink",
+      "Burgundy",
+      "Tan"
+    ],
+    "collections": "Business Casual",
+    "material": "Polyester",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/board-shorts-56.jpg",
+        "altText": "Board Shorts Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 43,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-057",
+    "name": "Evening Dress",
+    "description": "High-quality evening dress made from premium cotton. Perfect for summer collection occasions.",
+    "price": 28.45,
+    "discountPrice": 24.79,
+    "countInStock": 19,
+    "sku": "FO-791",
+    "category": "Formal Wear",
+    "brand": "SportMax",
+    "sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "S",
+      "M",
+      "XS"
+    ],
+    "colors": [
+      "Red",
+      "Purple",
+      "Olive",
+      "Beige",
+      "Burgundy"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/evening-dress-57.jpg",
+        "altText": "Evening Dress Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 49,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-058",
+    "name": "Bodycon Dress",
+    "description": "High-quality bodycon dress made from premium canvas. Perfect for casual collection occasions.",
+    "price": 78.62,
+    "discountPrice": 74.15,
+    "countInStock": 25,
+    "sku": "DR-919",
+    "category": "Dresses",
+    "brand": "SilkLux",
+    "sizes": [
+      "L",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Green",
+      "Beige",
+      "Red"
+    ],
+    "collections": "Casual Collection",
+    "material": "Canvas",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/bodycon-dress-58.jpg",
+        "altText": "Bodycon Dress Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-059",
+    "name": "Slim Fit Joggers",
+    "description": "Stylish slim fit joggers featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 89.54,
+    "discountPrice": 78.23,
+    "countInStock": 58,
+    "sku": "BO-431",
+    "category": "Bottom Wear",
+    "brand": "SportMax",
+    "sizes": [
+      "XS",
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Tan",
+      "White",
+      "Orange"
+    ],
+    "collections": "Summer Collection",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/slim-fit-joggers-59.jpg",
+        "altText": "Slim Fit Joggers Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 19,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-060",
+    "name": "Workout Leggings",
+    "description": "Stylish workout leggings featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 104.06,
+    "discountPrice": 85.4,
+    "countInStock": 40,
+    "sku": "AC-286",
+    "category": "Activewear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "L",
+      "XXL",
+      "S",
+      "XL",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "Brown",
+      "Gray",
+      "Black",
+      "Blue"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/workout-leggings-60.jpg",
+        "altText": "Workout Leggings Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 13,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-061",
+    "name": "Swim Trunks",
+    "description": "Trendy swim trunks that combines style and functionality for the modern wardrobe.",
+    "price": 141.11,
+    "discountPrice": 128.03,
+    "countInStock": 18,
+    "sku": "SW-200",
+    "category": "Swimwear",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "M",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Tan",
+      "Purple",
+      "Green"
+    ],
+    "collections": "Essentials",
+    "material": "Silk",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/swim-trunks-61.jpg",
+        "altText": "Swim Trunks Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 7,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-062",
+    "name": "Denim Jacket",
+    "description": "Stylish denim jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 83.31,
+    "discountPrice": 75.39,
+    "countInStock": 18,
+    "sku": "OU-615",
+    "category": "Outerwear",
+    "brand": "ElegantWear",
+    "sizes": [
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Gray",
+      "Orange"
+    ],
+    "collections": "Formal Wear",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/denim-jacket-62.jpg",
+        "altText": "Denim Jacket Image"
+      }
+    ],
+    "rating": 3.5,
+    "numReviews": 47,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-063",
+    "name": "Pajama Set",
+    "description": "Stylish pajama set featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 140.26,
+    "discountPrice": 120.38,
+    "countInStock": 47,
+    "sku": "SL-359",
+    "category": "Sleepwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Purple",
+      "Red",
+      "Tan",
+      "Orange",
+      "White"
+    ],
+    "collections": "Essentials",
+    "material": "Canvas",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/pajama-set-63.jpg",
+        "altText": "Pajama Set Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 24,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-064",
+    "name": "Canvas Sneakers",
+    "description": "Classic canvas sneakers crafted from denim with attention to detail and quality.",
+    "price": 65.13,
+    "discountPrice": 55.82,
+    "countInStock": 10,
+    "sku": "FO-355",
+    "category": "Footwear",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "10.5",
+      "8.5",
+      "11",
+      "9"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Tan"
+    ],
+    "collections": "Casual Collection",
+    "material": "Denim",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/canvas-sneakers-64.jpg",
+        "altText": "Canvas Sneakers Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 39,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-065",
+    "name": "Evening Gown",
+    "description": "High-quality evening gown made from premium wool blend. Perfect for business casual occasions.",
+    "price": 31.37,
+    "discountPrice": 29.39,
+    "countInStock": 36,
+    "sku": "DR-285",
+    "category": "Dresses",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "L",
+      "XS",
+      "XL"
+    ],
+    "colors": [
+      "Green",
+      "Red",
+      "Black"
+    ],
+    "collections": "Business Casual",
+    "material": "Wool Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/evening-gown-65.jpg",
+        "altText": "Evening Gown Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 23,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-066",
+    "name": "Ballet Flats",
+    "description": "Trendy ballet flats that combines style and functionality for the modern wardrobe.",
+    "price": 139.53,
+    "discountPrice": 131.42,
+    "countInStock": 12,
+    "sku": "FO-388",
+    "category": "Footwear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "8.5",
+      "9",
+      "10.5",
+      "11.5",
+      "8",
+      "6.5"
+    ],
+    "colors": [
+      "Orange",
+      "Olive",
+      "Yellow"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Linen",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/ballet-flats-66.jpg",
+        "altText": "Ballet Flats Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-067",
+    "name": "Leather Belt",
+    "description": "Contemporary leather belt designed with modern aesthetics and superior comfort in mind.",
+    "price": 71.65,
+    "discountPrice": 58.7,
+    "countInStock": 52,
+    "sku": "AC-282",
+    "category": "Accessories",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "32",
+      "36",
+      "28",
+      "30"
+    ],
+    "colors": [
+      "Black",
+      "Green",
+      "Orange",
+      "Red",
+      "Yellow"
+    ],
+    "collections": "Casual Collection",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/leather-belt-67.jpg",
+        "altText": "Leather Belt Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 40,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-068",
+    "name": "Watch",
+    "description": "Classic watch crafted from wool blend with attention to detail and quality.",
+    "price": 126.8,
+    "discountPrice": 103.37,
+    "countInStock": 22,
+    "sku": "AC-713",
+    "category": "Accessories",
+    "brand": "ClassicFit",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Navy",
+      "Red",
+      "Orange",
+      "Beige",
+      "Blue"
+    ],
+    "collections": "Formal Wear",
+    "material": "Wool Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/watch-68.jpg",
+        "altText": "Watch Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 22,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-069",
+    "name": "Sleep Shirt",
+    "description": "Contemporary sleep shirt designed with modern aesthetics and superior comfort in mind.",
+    "price": 66.62,
+    "discountPrice": 55.0,
+    "countInStock": 26,
+    "sku": "SL-822",
+    "category": "Sleepwear",
+    "brand": "SilkLux",
+    "sizes": [
+      "M",
+      "S",
+      "XS",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Gray",
+      "Red",
+      "Purple",
+      "Tan"
+    ],
+    "collections": "Denim Collection",
+    "material": "Silk",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sleep-shirt-69.jpg",
+        "altText": "Sleep Shirt Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 34,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-070",
+    "name": "Cufflinks",
+    "description": "Classic cufflinks crafted from spandex blend with attention to detail and quality.",
+    "price": 47.86,
+    "discountPrice": 42.98,
+    "countInStock": 44,
+    "sku": "FO-397",
+    "category": "Formal Wear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "XS",
+      "XL",
+      "XXL",
+      "L",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Navy",
+      "Beige",
+      "Brown",
+      "White"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Spandex Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cufflinks-70.jpg",
+        "altText": "Cufflinks Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 40,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-071",
+    "name": "Hat",
+    "description": "Trendy hat that combines style and functionality for the modern wardrobe.",
+    "price": 110.1,
+    "discountPrice": 95.86,
+    "countInStock": 51,
+    "sku": "AC-180",
+    "category": "Accessories",
+    "brand": "ActiveWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Beige",
+      "White",
+      "Gray",
+      "Pink"
+    ],
+    "collections": "Formal Wear",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/hat-71.jpg",
+        "altText": "Hat Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-072",
+    "name": "Leggings",
+    "description": "High-quality leggings made from premium polyester. Perfect for denim collection occasions.",
+    "price": 128.57,
+    "discountPrice": 121.05,
+    "countInStock": 48,
+    "sku": "BO-570",
+    "category": "Bottom Wear",
+    "brand": "ComfyTees",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Olive",
+      "Beige",
+      "Tan",
+      "Red"
+    ],
+    "collections": "Denim Collection",
+    "material": "Polyester",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/leggings-72.jpg",
+        "altText": "Leggings Image"
+      }
+    ],
+    "rating": 4.8,
+    "numReviews": 44,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-073",
+    "name": "Running Shorts",
+    "description": "Contemporary running shorts designed with modern aesthetics and superior comfort in mind.",
+    "price": 40.72,
+    "discountPrice": 36.07,
+    "countInStock": 29,
+    "sku": "AC-836",
+    "category": "Activewear",
+    "brand": "CasualStep",
+    "sizes": [
+      "L",
+      "XXL",
+      "S",
+      "XS"
+    ],
+    "colors": [
+      "Tan",
+      "Blue",
+      "Green",
+      "White",
+      "Purple"
+    ],
+    "collections": "Business Casual",
+    "material": "Cotton",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/running-shorts-73.jpg",
+        "altText": "Running Shorts Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 23,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-074",
+    "name": "High Heels",
+    "description": "Stylish high heels featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 107.04,
+    "discountPrice": 98.1,
+    "countInStock": 53,
+    "sku": "FO-100",
+    "category": "Footwear",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "11.5",
+      "9",
+      "10.5",
+      "6.5"
+    ],
+    "colors": [
+      "Pink",
+      "Gray",
+      "Green",
+      "Olive",
+      "Tan"
+    ],
+    "collections": "Summer Collection",
+    "material": "Polyester",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/high-heels-74.jpg",
+        "altText": "High Heels Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-075",
+    "name": "V-Neck Wrap Top",
+    "description": "High-quality v-neck wrap top made from premium cashmere. Perfect for luxury collection occasions.",
+    "price": 67.64,
+    "discountPrice": 56.44,
+    "countInStock": 24,
+    "sku": "TO-458",
+    "category": "Top Wear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "S",
+      "XL",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Brown",
+      "Orange",
+      "Gray",
+      "Purple",
+      "Beige"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/v-neck-wrap-top-75.jpg",
+        "altText": "V-Neck Wrap Top Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 27,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-076",
+    "name": "Evening Dress",
+    "description": "High-quality evening dress made from premium canvas. Perfect for formal wear occasions.",
+    "price": 145.46,
+    "discountPrice": 137.24,
+    "countInStock": 46,
+    "sku": "FO-562",
+    "category": "Formal Wear",
+    "brand": "WinterWear",
+    "sizes": [
+      "M",
+      "XXL",
+      "L",
+      "XS",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Gray",
+      "Burgundy",
+      "Beige",
+      "Tan"
+    ],
+    "collections": "Formal Wear",
+    "material": "Canvas",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/evening-dress-76.jpg",
+        "altText": "Evening Dress Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 27,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-077",
+    "name": "Tank Top",
+    "description": "Classic tank top crafted from denim with attention to detail and quality.",
+    "price": 17.43,
+    "discountPrice": 14.6,
+    "countInStock": 49,
+    "sku": "TO-757",
+    "category": "Top Wear",
+    "brand": "SilkLux",
+    "sizes": [
+      "L",
+      "S",
+      "XL",
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "Orange",
+      "Blue",
+      "Navy",
+      "Gray",
+      "Purple"
+    ],
+    "collections": "Formal Wear",
+    "material": "Denim",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/tank-top-77.jpg",
+        "altText": "Tank Top Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 37,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-078",
+    "name": "Formal Blazer",
+    "description": "Classic formal blazer crafted from silk with attention to detail and quality.",
+    "price": 112.05,
+    "discountPrice": 103.83,
+    "countInStock": 58,
+    "sku": "FO-955",
+    "category": "Formal Wear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "XS",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Orange",
+      "Burgundy",
+      "Purple",
+      "Red"
+    ],
+    "collections": "Business Casual",
+    "material": "Silk",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/formal-blazer-78.jpg",
+        "altText": "Formal Blazer Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 42,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-079",
+    "name": "Flats",
+    "description": "High-quality flats made from premium wool blend. Perfect for essentials occasions.",
+    "price": 132.7,
+    "discountPrice": 108.91,
+    "countInStock": 59,
+    "sku": "FO-374",
+    "category": "Footwear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "6",
+      "11",
+      "12",
+      "8.5",
+      "7.5",
+      "10.5"
+    ],
+    "colors": [
+      "White",
+      "Orange"
+    ],
+    "collections": "Essentials",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/flats-79.jpg",
+        "altText": "Flats Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 48,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-080",
+    "name": "Sunglasses",
+    "description": "Stylish sunglasses featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 76.69,
+    "discountPrice": 67.25,
+    "countInStock": 37,
+    "sku": "AC-569",
+    "category": "Accessories",
+    "brand": "ElegantWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Brown",
+      "Green"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Canvas",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sunglasses-80.jpg",
+        "altText": "Sunglasses Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 17,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-081",
+    "name": "Puffer Jacket",
+    "description": "Stylish puffer jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 66.16,
+    "discountPrice": 56.15,
+    "countInStock": 15,
+    "sku": "OU-965",
+    "category": "Outerwear",
+    "brand": "SilkLux",
+    "sizes": [
+      "XL",
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Green",
+      "Blue",
+      "Pink",
+      "Olive"
+    ],
+    "collections": "Formal Wear",
+    "material": "Leather",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/puffer-jacket-81.jpg",
+        "altText": "Puffer Jacket Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 33,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-082",
+    "name": "Cufflinks",
+    "description": "Trendy cufflinks that combines style and functionality for the modern wardrobe.",
+    "price": 115.99,
+    "discountPrice": 99.13,
+    "countInStock": 37,
+    "sku": "FO-335",
+    "category": "Formal Wear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "L",
+      "XS",
+      "XL"
+    ],
+    "colors": [
+      "Orange",
+      "Gray",
+      "Black",
+      "Tan",
+      "White"
+    ],
+    "collections": "Summer Collection",
+    "material": "Canvas",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/cufflinks-82.jpg",
+        "altText": "Cufflinks Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 17,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-083",
+    "name": "Tuxedo",
+    "description": "High-quality tuxedo made from premium silk. Perfect for winter collection occasions.",
+    "price": 110.07,
+    "discountPrice": 98.37,
+    "countInStock": 20,
+    "sku": "FO-353",
+    "category": "Formal Wear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "XS",
+      "L",
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Tan",
+      "Green"
+    ],
+    "collections": "Winter Collection",
+    "material": "Silk",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/tuxedo-83.jpg",
+        "altText": "Tuxedo Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 16,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-084",
+    "name": "Dress Pants",
+    "description": "Trendy dress pants that combines style and functionality for the modern wardrobe.",
+    "price": 122.29,
+    "discountPrice": 110.85,
+    "countInStock": 27,
+    "sku": "BO-575",
+    "category": "Bottom Wear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "XXL",
+      "XL",
+      "S",
+      "L",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "White",
+      "Gray",
+      "Orange"
+    ],
+    "collections": "Summer Collection",
+    "material": "Polyester",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/dress-pants-84.jpg",
+        "altText": "Dress Pants Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 41,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-085",
+    "name": "Blouse",
+    "description": "Contemporary blouse designed with modern aesthetics and superior comfort in mind.",
+    "price": 46.76,
+    "discountPrice": 40.24,
+    "countInStock": 56,
+    "sku": "TO-613",
+    "category": "Top Wear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "L",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Black",
+      "Tan",
+      "Navy"
+    ],
+    "collections": "Evening Collection",
+    "material": "Denim",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/blouse-85.jpg",
+        "altText": "Blouse Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-086",
+    "name": "A-Line Dress",
+    "description": "Contemporary a-line dress designed with modern aesthetics and superior comfort in mind.",
+    "price": 80.32,
+    "discountPrice": 73.4,
+    "countInStock": 33,
+    "sku": "DR-579",
+    "category": "Dresses",
+    "brand": "ClassicFit",
+    "sizes": [
+      "XS",
+      "XXL",
+      "S",
+      "L",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Orange",
+      "Green",
+      "Blue",
+      "Tan"
+    ],
+    "collections": "Essentials",
+    "material": "Viscose",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/a-line-dress-86.jpg",
+        "altText": "A-Line Dress Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-087",
+    "name": "Silk Scarf",
+    "description": "Stylish silk scarf featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 104.76,
+    "discountPrice": 92.3,
+    "countInStock": 39,
+    "sku": "AC-782",
+    "category": "Accessories",
+    "brand": "SilkLux",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Purple",
+      "Burgundy",
+      "Olive",
+      "Brown"
+    ],
+    "collections": "Summer Collection",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/silk-scarf-87.jpg",
+        "altText": "Silk Scarf Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 24,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-088",
+    "name": "Track Jacket",
+    "description": "Stylish track jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 23.85,
+    "discountPrice": 19.35,
+    "countInStock": 57,
+    "sku": "AC-957",
+    "category": "Activewear",
+    "brand": "ElegantWear",
+    "sizes": [
+      "XXL",
+      "S",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Pink",
+      "Navy",
+      "Tan",
+      "Blue",
+      "Purple"
+    ],
+    "collections": "Winter Collection",
+    "material": "Wool Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/track-jacket-88.jpg",
+        "altText": "Track Jacket Image"
+      }
+    ],
+    "rating": 4.3,
+    "numReviews": 23,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-089",
+    "name": "Tuxedo",
+    "description": "High-quality tuxedo made from premium viscose. Perfect for business casual occasions.",
+    "price": 28.36,
+    "discountPrice": 24.14,
+    "countInStock": 38,
+    "sku": "FO-397",
+    "category": "Formal Wear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Black",
+      "Tan",
+      "Orange",
+      "Burgundy"
+    ],
+    "collections": "Business Casual",
+    "material": "Viscose",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/tuxedo-89.jpg",
+        "altText": "Tuxedo Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 45,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-090",
+    "name": "Vest",
+    "description": "High-quality vest made from premium linen. Perfect for business casual occasions.",
+    "price": 129.41,
+    "discountPrice": 118.54,
+    "countInStock": 59,
+    "sku": "OU-470",
+    "category": "Outerwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "M",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Tan",
+      "Purple",
+      "Beige",
+      "Orange",
+      "Pink"
+    ],
+    "collections": "Business Casual",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/vest-90.jpg",
+        "altText": "Vest Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 31,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-091",
+    "name": "Leggings",
+    "description": "Trendy leggings that combines style and functionality for the modern wardrobe.",
+    "price": 111.24,
+    "discountPrice": 92.77,
+    "countInStock": 46,
+    "sku": "BO-534",
+    "category": "Bottom Wear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Pink",
+      "Orange",
+      "Green",
+      "White"
+    ],
+    "collections": "Casual Collection",
+    "material": "Canvas",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/leggings-91.jpg",
+        "altText": "Leggings Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-092",
+    "name": "Peacoat",
+    "description": "Stylish peacoat featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 80.55,
+    "discountPrice": 72.62,
+    "countInStock": 25,
+    "sku": "OU-694",
+    "category": "Outerwear",
+    "brand": "WinterWear",
+    "sizes": [
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Olive",
+      "Navy",
+      "White",
+      "Purple"
+    ],
+    "collections": "Formal Wear",
+    "material": "Silk",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/peacoat-92.jpg",
+        "altText": "Peacoat Image"
+      }
+    ],
+    "rating": 4.3,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-093",
+    "name": "Sleep Shorts",
+    "description": "Contemporary sleep shorts designed with modern aesthetics and superior comfort in mind.",
+    "price": 28.5,
+    "discountPrice": 24.13,
+    "countInStock": 31,
+    "sku": "SL-720",
+    "category": "Sleepwear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "L",
+      "XS",
+      "XL",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Olive",
+      "Yellow",
+      "Gray"
+    ],
+    "collections": "Essentials",
+    "material": "Leather",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/sleep-shorts-93.jpg",
+        "altText": "Sleep Shorts Image"
+      }
+    ],
+    "rating": 5.0,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-094",
+    "name": "Polo Shirt",
+    "description": "Trendy polo shirt that combines style and functionality for the modern wardrobe.",
+    "price": 55.51,
+    "discountPrice": 50.91,
+    "countInStock": 27,
+    "sku": "TO-301",
+    "category": "Top Wear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "L",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "Tan",
+      "Gray",
+      "Yellow",
+      "Pink"
+    ],
+    "collections": "Denim Collection",
+    "material": "Silk",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/polo-shirt-94.jpg",
+        "altText": "Polo Shirt Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 22,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-095",
+    "name": "Performance Tee",
+    "description": "High-quality performance tee made from premium cashmere. Perfect for athletic collection occasions.",
+    "price": 139.2,
+    "discountPrice": 113.49,
+    "countInStock": 34,
+    "sku": "AC-197",
+    "category": "Activewear",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "L",
+      "M",
+      "XXL",
+      "S",
+      "XL",
+      "XS"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/performance-tee-95.jpg",
+        "altText": "Performance Tee Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 18,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-096",
+    "name": "Pajama Set",
+    "description": "Contemporary pajama set designed with modern aesthetics and superior comfort in mind.",
+    "price": 34.56,
+    "discountPrice": 28.49,
+    "countInStock": 19,
+    "sku": "SL-990",
+    "category": "Sleepwear",
+    "brand": "WinterWear",
+    "sizes": [
+      "S",
+      "XL",
+      "XS",
+      "L"
+    ],
+    "colors": [
+      "Olive",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Denim",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/pajama-set-96.jpg",
+        "altText": "Pajama Set Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 6,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-097",
+    "name": "Fleece Jacket",
+    "description": "Trendy fleece jacket that combines style and functionality for the modern wardrobe.",
+    "price": 76.76,
+    "discountPrice": 69.13,
+    "countInStock": 23,
+    "sku": "OU-573",
+    "category": "Outerwear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "XXL",
+      "XL",
+      "XS",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Blue",
+      "Navy",
+      "Pink",
+      "Tan"
+    ],
+    "collections": "Essentials",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/fleece-jacket-97.jpg",
+        "altText": "Fleece Jacket Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 27,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-098",
+    "name": "Sweater",
+    "description": "Classic sweater crafted from canvas with attention to detail and quality.",
+    "price": 42.22,
+    "discountPrice": 37.08,
+    "countInStock": 47,
+    "sku": "TO-969",
+    "category": "Top Wear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "L",
+      "XS",
+      "XXL",
+      "M",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Olive",
+      "Navy",
+      "Gray"
+    ],
+    "collections": "Formal Wear",
+    "material": "Canvas",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sweater-98.jpg",
+        "altText": "Sweater Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 37,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-099",
+    "name": "Nightgown",
+    "description": "Trendy nightgown that combines style and functionality for the modern wardrobe.",
+    "price": 99.55,
+    "discountPrice": 89.12,
+    "countInStock": 53,
+    "sku": "SL-299",
+    "category": "Sleepwear",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Yellow",
+      "Beige",
+      "Brown"
+    ],
+    "collections": "Evening Collection",
+    "material": "Cotton",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/nightgown-99.jpg",
+        "altText": "Nightgown Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 30,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-100",
+    "name": "Sweatpants",
+    "description": "Stylish sweatpants featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 90.11,
+    "discountPrice": 82.72,
+    "countInStock": 43,
+    "sku": "BO-385",
+    "category": "Bottom Wear",
+    "brand": "SportMax",
+    "sizes": [
+      "XL",
+      "L",
+      "S",
+      "M",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Green",
+      "Pink",
+      "Orange",
+      "Gray"
+    ],
+    "collections": "Evening Collection",
+    "material": "Spandex Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sweatpants-100.jpg",
+        "altText": "Sweatpants Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 45,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-101",
+    "name": "Sweatpants",
+    "description": "Stylish sweatpants featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 31.74,
+    "discountPrice": 27.86,
+    "countInStock": 40,
+    "sku": "BO-527",
+    "category": "Bottom Wear",
+    "brand": "WinterWear",
+    "sizes": [
+      "L",
+      "S",
+      "XL",
+      "XS"
+    ],
+    "colors": [
+      "Beige",
+      "White",
+      "Red",
+      "Green",
+      "Black"
+    ],
+    "collections": "Casual Collection",
+    "material": "Canvas",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sweatpants-101.jpg",
+        "altText": "Sweatpants Image"
+      }
+    ],
+    "rating": 5.0,
+    "numReviews": 47,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-102",
+    "name": "Track Jacket",
+    "description": "High-quality track jacket made from premium leather. Perfect for essentials occasions.",
+    "price": 40.03,
+    "discountPrice": 35.68,
+    "countInStock": 19,
+    "sku": "AC-315",
+    "category": "Activewear",
+    "brand": "ChicWrap",
+    "sizes": [
+      "XXL",
+      "M",
+      "XS",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Blue",
+      "Burgundy",
+      "Navy",
+      "Tan",
+      "Red"
+    ],
+    "collections": "Essentials",
+    "material": "Leather",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/track-jacket-102.jpg",
+        "altText": "Track Jacket Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-103",
+    "name": "Palazzo Pants",
+    "description": "Classic palazzo pants crafted from wool blend with attention to detail and quality.",
+    "price": 35.25,
+    "discountPrice": 30.04,
+    "countInStock": 27,
+    "sku": "BO-488",
+    "category": "Bottom Wear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "M",
+      "S",
+      "XS"
+    ],
+    "colors": [
+      "Pink",
+      "Navy",
+      "Brown",
+      "Tan"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/palazzo-pants-103.jpg",
+        "altText": "Palazzo Pants Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 37,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-104",
+    "name": "One-Piece Swimsuit",
+    "description": "High-quality one-piece swimsuit made from premium linen. Perfect for winter collection occasions.",
+    "price": 138.6,
+    "discountPrice": 124.44,
+    "countInStock": 60,
+    "sku": "SW-909",
+    "category": "Swimwear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "XS",
+      "XXL",
+      "XL",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Burgundy"
+    ],
+    "collections": "Winter Collection",
+    "material": "Linen",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/one-piece-swimsuit-104.jpg",
+        "altText": "One-Piece Swimsuit Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 39,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-105",
+    "name": "Workout Leggings",
+    "description": "Trendy workout leggings that combines style and functionality for the modern wardrobe.",
+    "price": 22.02,
+    "discountPrice": 18.26,
+    "countInStock": 16,
+    "sku": "AC-116",
+    "category": "Activewear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "L",
+      "S",
+      "M",
+      "XS",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Blue",
+      "Navy",
+      "White",
+      "Green",
+      "Yellow"
+    ],
+    "collections": "Evening Collection",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/workout-leggings-105.jpg",
+        "altText": "Workout Leggings Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 49,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-106",
+    "name": "Wallet",
+    "description": "Contemporary wallet designed with modern aesthetics and superior comfort in mind.",
+    "price": 135.69,
+    "discountPrice": 126.19,
+    "countInStock": 59,
+    "sku": "AC-320",
+    "category": "Accessories",
+    "brand": "WinterWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Olive",
+      "Yellow",
+      "White",
+      "Purple",
+      "Beige"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/wallet-106.jpg",
+        "altText": "Wallet Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 42,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-107",
+    "name": "Evening Gown",
+    "description": "Classic evening gown crafted from denim with attention to detail and quality.",
+    "price": 96.34,
+    "discountPrice": 79.48,
+    "countInStock": 39,
+    "sku": "DR-438",
+    "category": "Dresses",
+    "brand": "SummerVibes",
+    "sizes": [
+      "M",
+      "XS",
+      "XL",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Blue",
+      "Red"
+    ],
+    "collections": "Summer Collection",
+    "material": "Denim",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/evening-gown-107.jpg",
+        "altText": "Evening Gown Image"
+      }
+    ],
+    "rating": 4.3,
+    "numReviews": 26,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-108",
+    "name": "Cropped Pants",
+    "description": "Contemporary cropped pants designed with modern aesthetics and superior comfort in mind.",
+    "price": 66.17,
+    "discountPrice": 61.69,
+    "countInStock": 59,
+    "sku": "BO-195",
+    "category": "Bottom Wear",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "XS",
+      "XXL",
+      "XL",
+      "S",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Beige",
+      "Yellow",
+      "Olive"
+    ],
+    "collections": "Business Casual",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cropped-pants-108.jpg",
+        "altText": "Cropped Pants Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 34,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-109",
+    "name": "Gloves",
+    "description": "Stylish gloves featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 71.81,
+    "discountPrice": 63.6,
+    "countInStock": 16,
+    "sku": "AC-225",
+    "category": "Accessories",
+    "brand": "ClassicFit",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "collections": "Denim Collection",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/gloves-109.jpg",
+        "altText": "Gloves Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 24,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-110",
+    "name": "Leggings",
+    "description": "Contemporary leggings designed with modern aesthetics and superior comfort in mind.",
+    "price": 97.55,
+    "discountPrice": 82.87,
+    "countInStock": 57,
+    "sku": "BO-446",
+    "category": "Bottom Wear",
+    "brand": "SilkLux",
+    "sizes": [
+      "XXL",
+      "L",
+      "S",
+      "M",
+      "XL",
+      "XS"
+    ],
+    "colors": [
+      "Black",
+      "Purple"
+    ],
+    "collections": "Formal Wear",
+    "material": "Leather",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/leggings-110.jpg",
+        "altText": "Leggings Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 23,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-111",
+    "name": "Robe",
+    "description": "Classic robe crafted from viscose with attention to detail and quality.",
+    "price": 69.51,
+    "discountPrice": 62.86,
+    "countInStock": 11,
+    "sku": "SL-218",
+    "category": "Sleepwear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "M",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Pink",
+      "Beige",
+      "Burgundy"
+    ],
+    "collections": "Denim Collection",
+    "material": "Viscose",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/robe-111.jpg",
+        "altText": "Robe Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 14,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-112",
+    "name": "Camisole Set",
+    "description": "Stylish camisole set featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 96.51,
+    "discountPrice": 78.91,
+    "countInStock": 38,
+    "sku": "SL-665",
+    "category": "Sleepwear",
+    "brand": "ElegantWear",
+    "sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "M",
+      "XS"
+    ],
+    "colors": [
+      "Tan",
+      "Olive",
+      "Blue",
+      "Green",
+      "Gray"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/camisole-set-112.jpg",
+        "altText": "Camisole Set Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 50,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-113",
+    "name": "Cufflinks",
+    "description": "Contemporary cufflinks designed with modern aesthetics and superior comfort in mind.",
+    "price": 122.16,
+    "discountPrice": 102.37,
+    "countInStock": 56,
+    "sku": "FO-547",
+    "category": "Formal Wear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "XXL",
+      "XL",
+      "S",
+      "M",
+      "XS",
+      "L"
+    ],
+    "colors": [
+      "Red",
+      "Beige",
+      "Brown",
+      "Olive"
+    ],
+    "collections": "Evening Collection",
+    "material": "Viscose",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/cufflinks-113.jpg",
+        "altText": "Cufflinks Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 17,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-114",
+    "name": "Oxford Button-Down Shirt",
+    "description": "Trendy oxford button-down shirt that combines style and functionality for the modern wardrobe.",
+    "price": 80.6,
+    "discountPrice": 64.8,
+    "countInStock": 22,
+    "sku": "TO-387",
+    "category": "Top Wear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Beige",
+      "Burgundy",
+      "Navy",
+      "White"
+    ],
+    "collections": "Casual Collection",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/oxford-button-down-shirt-114.jpg",
+        "altText": "Oxford Button-Down Shirt Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-115",
+    "name": "Yoga Pants",
+    "description": "Contemporary yoga pants designed with modern aesthetics and superior comfort in mind.",
+    "price": 16.41,
+    "discountPrice": 14.67,
+    "countInStock": 53,
+    "sku": "AC-170",
+    "category": "Activewear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "M",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Pink",
+      "Tan",
+      "Navy",
+      "Green"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/yoga-pants-115.jpg",
+        "altText": "Yoga Pants Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 14,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-116",
+    "name": "Canvas Sneakers",
+    "description": "Trendy canvas sneakers that combines style and functionality for the modern wardrobe.",
+    "price": 85.95,
+    "discountPrice": 74.26,
+    "countInStock": 39,
+    "sku": "FO-601",
+    "category": "Footwear",
+    "brand": "SilkLux",
+    "sizes": [
+      "9",
+      "6.5",
+      "12",
+      "6"
+    ],
+    "colors": [
+      "Tan",
+      "Gray",
+      "Blue",
+      "Yellow",
+      "Olive"
+    ],
+    "collections": "Winter Collection",
+    "material": "Linen",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/canvas-sneakers-116.jpg",
+        "altText": "Canvas Sneakers Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-117",
+    "name": "Bow Tie",
+    "description": "High-quality bow tie made from premium canvas. Perfect for athletic collection occasions.",
+    "price": 110.18,
+    "discountPrice": 97.97,
+    "countInStock": 59,
+    "sku": "AC-453",
+    "category": "Accessories",
+    "brand": "WinterWear",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Red",
+      "Green",
+      "Tan",
+      "Brown"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Canvas",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/bow-tie-117.jpg",
+        "altText": "Bow Tie Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 36,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-118",
+    "name": "Bikini Set",
+    "description": "Trendy bikini set that combines style and functionality for the modern wardrobe.",
+    "price": 52.73,
+    "discountPrice": 45.38,
+    "countInStock": 57,
+    "sku": "SW-192",
+    "category": "Swimwear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "S",
+      "XS",
+      "XXL",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Gray",
+      "Pink",
+      "Green"
+    ],
+    "collections": "Formal Wear",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/bikini-set-118.jpg",
+        "altText": "Bikini Set Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 6,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-119",
+    "name": "Bikini Set",
+    "description": "Contemporary bikini set designed with modern aesthetics and superior comfort in mind.",
+    "price": 58.45,
+    "discountPrice": 53.62,
+    "countInStock": 40,
+    "sku": "SW-391",
+    "category": "Swimwear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "XXL",
+      "S",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Black",
+      "Gray",
+      "Blue",
+      "Beige",
+      "Burgundy"
+    ],
+    "collections": "Athletic Collection",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/bikini-set-119.jpg",
+        "altText": "Bikini Set Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 26,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-120",
+    "name": "Oxford Button-Down Shirt",
+    "description": "Classic oxford button-down shirt crafted from polyester with attention to detail and quality.",
+    "price": 88.48,
+    "discountPrice": 78.51,
+    "countInStock": 43,
+    "sku": "TO-415",
+    "category": "Top Wear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "L",
+      "XL",
+      "M",
+      "XS"
+    ],
+    "colors": [
+      "Yellow",
+      "Blue",
+      "Navy",
+      "Black"
+    ],
+    "collections": "Winter Collection",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/oxford-button-down-shirt-120.jpg",
+        "altText": "Oxford Button-Down Shirt Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 30,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-121",
+    "name": "Track Jacket",
+    "description": "Stylish track jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 52.1,
+    "discountPrice": 44.88,
+    "countInStock": 28,
+    "sku": "AC-262",
+    "category": "Activewear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "XXL",
+      "XS",
+      "M",
+      "L",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Orange",
+      "Green",
+      "Black",
+      "Tan"
+    ],
+    "collections": "Casual Collection",
+    "material": "Spandex Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/track-jacket-121.jpg",
+        "altText": "Track Jacket Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 16,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-122",
+    "name": "Leather Belt",
+    "description": "Stylish leather belt featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 107.04,
+    "discountPrice": 93.82,
+    "countInStock": 17,
+    "sku": "AC-184",
+    "category": "Accessories",
+    "brand": "ChicWrap",
+    "sizes": [
+      "36",
+      "42",
+      "32",
+      "38",
+      "34",
+      "40"
+    ],
+    "colors": [
+      "Pink",
+      "Beige",
+      "Navy"
+    ],
+    "collections": "Denim Collection",
+    "material": "Silk",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/leather-belt-122.jpg",
+        "altText": "Leather Belt Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-123",
+    "name": "Turtleneck",
+    "description": "Classic turtleneck crafted from cotton with attention to detail and quality.",
+    "price": 29.71,
+    "discountPrice": 27.97,
+    "countInStock": 45,
+    "sku": "TO-975",
+    "category": "Top Wear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "S",
+      "XL",
+      "M",
+      "XS"
+    ],
+    "colors": [
+      "Orange",
+      "Black",
+      "White",
+      "Yellow"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/turtleneck-123.jpg",
+        "altText": "Turtleneck Image"
+      }
+    ],
+    "rating": 4.5,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-124",
+    "name": "Sweatshirt",
+    "description": "Stylish sweatshirt featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 104.24,
+    "discountPrice": 88.64,
+    "countInStock": 47,
+    "sku": "AC-468",
+    "category": "Activewear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "XL",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Pink",
+      "Beige",
+      "Burgundy",
+      "Tan"
+    ],
+    "collections": "Summer Collection",
+    "material": "Canvas",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/sweatshirt-124.jpg",
+        "altText": "Sweatshirt Image"
+      }
+    ],
+    "rating": 4.3,
+    "numReviews": 42,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-125",
+    "name": "Workout Leggings",
+    "description": "Contemporary workout leggings designed with modern aesthetics and superior comfort in mind.",
+    "price": 87.3,
+    "discountPrice": 80.8,
+    "countInStock": 45,
+    "sku": "AC-585",
+    "category": "Activewear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "M",
+      "S",
+      "XL",
+      "XS"
+    ],
+    "colors": [
+      "Orange",
+      "Black",
+      "Navy",
+      "Tan",
+      "Brown"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Wool Blend",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/workout-leggings-125.jpg",
+        "altText": "Workout Leggings Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-126",
+    "name": "Cargo Shorts",
+    "description": "Trendy cargo shorts that combines style and functionality for the modern wardrobe.",
+    "price": 126.99,
+    "discountPrice": 116.29,
+    "countInStock": 20,
+    "sku": "BO-658",
+    "category": "Bottom Wear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "S",
+      "XL",
+      "XXL",
+      "L",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Pink",
+      "Olive",
+      "Gray",
+      "Beige",
+      "Yellow"
+    ],
+    "collections": "Evening Collection",
+    "material": "Cotton",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cargo-shorts-126.jpg",
+        "altText": "Cargo Shorts Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 50,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-127",
+    "name": "Bomber Jacket",
+    "description": "Stylish bomber jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 143.81,
+    "discountPrice": 133.77,
+    "countInStock": 45,
+    "sku": "OU-715",
+    "category": "Outerwear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "XS",
+      "L",
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Yellow",
+      "Orange",
+      "Blue",
+      "White",
+      "Navy"
+    ],
+    "collections": "Summer Collection",
+    "material": "Canvas",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/bomber-jacket-127.jpg",
+        "altText": "Bomber Jacket Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 8,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-128",
+    "name": "Tie",
+    "description": "Trendy tie that combines style and functionality for the modern wardrobe.",
+    "price": 99.02,
+    "discountPrice": 80.32,
+    "countInStock": 38,
+    "sku": "AC-492",
+    "category": "Accessories",
+    "brand": "TrendyStyle",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Yellow",
+      "Blue",
+      "Brown",
+      "White"
+    ],
+    "collections": "Evening Collection",
+    "material": "Cotton",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/tie-128.jpg",
+        "altText": "Tie Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-129",
+    "name": "Cocktail Dress",
+    "description": "Trendy cocktail dress that combines style and functionality for the modern wardrobe.",
+    "price": 118.11,
+    "discountPrice": 104.14,
+    "countInStock": 19,
+    "sku": "FO-326",
+    "category": "Formal Wear",
+    "brand": "WinterWear",
+    "sizes": [
+      "L",
+      "XS",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Brown",
+      "Pink",
+      "Green",
+      "Purple",
+      "Burgundy"
+    ],
+    "collections": "Evening Collection",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cocktail-dress-129.jpg",
+        "altText": "Cocktail Dress Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 23,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-130",
+    "name": "Trench Coat",
+    "description": "Classic trench coat crafted from viscose with attention to detail and quality.",
+    "price": 87.01,
+    "discountPrice": 72.16,
+    "countInStock": 22,
+    "sku": "OU-126",
+    "category": "Outerwear",
+    "brand": "ActiveWear",
+    "sizes": [
+      "S",
+      "M",
+      "XS",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Yellow",
+      "Blue",
+      "Burgundy",
+      "Purple"
+    ],
+    "collections": "Formal Wear",
+    "material": "Viscose",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/trench-coat-130.jpg",
+        "altText": "Trench Coat Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 20,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-131",
+    "name": "Loafers",
+    "description": "Trendy loafers that combines style and functionality for the modern wardrobe.",
+    "price": 124.27,
+    "discountPrice": 110.38,
+    "countInStock": 12,
+    "sku": "FO-497",
+    "category": "Footwear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "11",
+      "6",
+      "10.5",
+      "11.5"
+    ],
+    "colors": [
+      "Blue",
+      "Black",
+      "Gray"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Linen",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/loafers-131.jpg",
+        "altText": "Loafers Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-132",
+    "name": "Dress Shirt",
+    "description": "Trendy dress shirt that combines style and functionality for the modern wardrobe.",
+    "price": 34.34,
+    "discountPrice": 30.35,
+    "countInStock": 21,
+    "sku": "FO-616",
+    "category": "Formal Wear",
+    "brand": "SportMax",
+    "sizes": [
+      "XL",
+      "L",
+      "S",
+      "M",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Gray",
+      "Pink",
+      "Orange",
+      "Brown",
+      "Tan"
+    ],
+    "collections": "Winter Collection",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/dress-shirt-132.jpg",
+        "altText": "Dress Shirt Image"
+      }
+    ],
+    "rating": 3.9,
+    "numReviews": 46,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-133",
+    "name": "Cocktail Dress",
+    "description": "Classic cocktail dress crafted from polyester with attention to detail and quality.",
+    "price": 79.75,
+    "discountPrice": 75.76,
+    "countInStock": 26,
+    "sku": "FO-703",
+    "category": "Formal Wear",
+    "brand": "SilkLux",
+    "sizes": [
+      "XS",
+      "L",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Tan",
+      "Olive",
+      "Gray",
+      "Brown"
+    ],
+    "collections": "Summer Collection",
+    "material": "Polyester",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/cocktail-dress-133.jpg",
+        "altText": "Cocktail Dress Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 27,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-134",
+    "name": "Gloves",
+    "description": "Classic gloves crafted from wool blend with attention to detail and quality.",
+    "price": 94.3,
+    "discountPrice": 85.7,
+    "countInStock": 30,
+    "sku": "AC-631",
+    "category": "Accessories",
+    "brand": "ChicWrap",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Green",
+      "White"
+    ],
+    "collections": "Summer Collection",
+    "material": "Wool Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/gloves-134.jpg",
+        "altText": "Gloves Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 15,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-135",
+    "name": "Henley Shirt",
+    "description": "High-quality henley shirt made from premium cotton blend. Perfect for essentials occasions.",
+    "price": 72.06,
+    "discountPrice": 67.05,
+    "countInStock": 31,
+    "sku": "TO-292",
+    "category": "Top Wear",
+    "brand": "WinterWear",
+    "sizes": [
+      "XS",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Olive",
+      "Orange",
+      "Brown",
+      "Navy",
+      "Black"
+    ],
+    "collections": "Essentials",
+    "material": "Cotton Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/henley-shirt-135.jpg",
+        "altText": "Henley Shirt Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 39,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-136",
+    "name": "Sleep Shirt",
+    "description": "Contemporary sleep shirt designed with modern aesthetics and superior comfort in mind.",
+    "price": 39.25,
+    "discountPrice": 34.19,
+    "countInStock": 56,
+    "sku": "SL-826",
+    "category": "Sleepwear",
+    "brand": "DenimStyle",
+    "sizes": [
+      "XS",
+      "L",
+      "XXL",
+      "XL",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Green",
+      "Red"
+    ],
+    "collections": "Denim Collection",
+    "material": "Cotton",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/sleep-shirt-136.jpg",
+        "altText": "Sleep Shirt Image"
+      }
+    ],
+    "rating": 5.0,
+    "numReviews": 31,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-137",
+    "name": "Silk Scarf",
+    "description": "Contemporary silk scarf designed with modern aesthetics and superior comfort in mind.",
+    "price": 73.16,
+    "discountPrice": 64.25,
+    "countInStock": 18,
+    "sku": "AC-415",
+    "category": "Accessories",
+    "brand": "SummerVibes",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Burgundy",
+      "Pink",
+      "Blue",
+      "Brown",
+      "Green"
+    ],
+    "collections": "Formal Wear",
+    "material": "Silk",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/silk-scarf-137.jpg",
+        "altText": "Silk Scarf Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 48,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-138",
+    "name": "Cocktail Dress",
+    "description": "Classic cocktail dress crafted from cotton blend with attention to detail and quality.",
+    "price": 131.14,
+    "discountPrice": 111.62,
+    "countInStock": 52,
+    "sku": "FO-911",
+    "category": "Formal Wear",
+    "brand": "Urban Threads",
+    "sizes": [
+      "XXL",
+      "XS",
+      "M",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Green",
+      "Orange"
+    ],
+    "collections": "Denim Collection",
+    "material": "Cotton Blend",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/cocktail-dress-138.jpg",
+        "altText": "Cocktail Dress Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 45,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-139",
+    "name": "Ankle Boots",
+    "description": "Trendy ankle boots that combines style and functionality for the modern wardrobe.",
+    "price": 45.23,
+    "discountPrice": 36.36,
+    "countInStock": 30,
+    "sku": "FO-414",
+    "category": "Footwear",
+    "brand": "SummerVibes",
+    "sizes": [
+      "9",
+      "10",
+      "11.5",
+      "10.5"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Beige",
+      "Pink",
+      "Navy"
+    ],
+    "collections": "Summer Collection",
+    "material": "Viscose",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/ankle-boots-139.jpg",
+        "altText": "Ankle Boots Image"
+      }
+    ],
+    "rating": 3.7,
+    "numReviews": 35,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-140",
+    "name": "Dress Shirt",
+    "description": "Stylish dress shirt featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 33.34,
+    "discountPrice": 26.77,
+    "countInStock": 59,
+    "sku": "FO-647",
+    "category": "Formal Wear",
+    "brand": "CasualStep",
+    "sizes": [
+      "S",
+      "XL",
+      "XS"
+    ],
+    "colors": [
+      "Orange",
+      "Beige",
+      "Brown",
+      "Pink"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Cashmere",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/dress-shirt-140.jpg",
+        "altText": "Dress Shirt Image"
+      }
+    ],
+    "rating": 4.4,
+    "numReviews": 22,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-141",
+    "name": "Wallet",
+    "description": "Trendy wallet that combines style and functionality for the modern wardrobe.",
+    "price": 89.21,
+    "discountPrice": 73.67,
+    "countInStock": 49,
+    "sku": "AC-160",
+    "category": "Accessories",
+    "brand": "Urban Threads",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Red",
+      "Yellow",
+      "Beige",
+      "Purple"
+    ],
+    "collections": "Luxury Collection",
+    "material": "Linen",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/wallet-141.jpg",
+        "altText": "Wallet Image"
+      }
+    ],
+    "rating": 4.6,
+    "numReviews": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-142",
+    "name": "Sandals",
+    "description": "Classic sandals crafted from leather with attention to detail and quality.",
+    "price": 145.82,
+    "discountPrice": 123.38,
+    "countInStock": 30,
+    "sku": "FO-500",
+    "category": "Footwear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "6.5",
+      "7.5",
+      "6",
+      "7",
+      "8.5",
+      "11.5",
+      "8",
+      "9"
+    ],
+    "colors": [
+      "Burgundy",
+      "Olive",
+      "Purple"
+    ],
+    "collections": "Essentials",
+    "material": "Leather",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/sandals-142.jpg",
+        "altText": "Sandals Image"
+      }
+    ],
+    "rating": 4.1,
+    "numReviews": 34,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-143",
+    "name": "Fleece Jacket",
+    "description": "Stylish fleece jacket featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 109.28,
+    "discountPrice": 98.78,
+    "countInStock": 31,
+    "sku": "OU-787",
+    "category": "Outerwear",
+    "brand": "ClassicFit",
+    "sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "XS",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Gray",
+      "Beige",
+      "Olive",
+      "Orange"
+    ],
+    "collections": "Business Casual",
+    "material": "Leather",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/fleece-jacket-143.jpg",
+        "altText": "Fleece Jacket Image"
+      }
+    ],
+    "rating": 4.7,
+    "numReviews": 29,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-144",
+    "name": "Wrap Dress",
+    "description": "Classic wrap dress crafted from cashmere with attention to detail and quality.",
+    "price": 124.8,
+    "discountPrice": 100.65,
+    "countInStock": 14,
+    "sku": "DR-662",
+    "category": "Dresses",
+    "brand": "SportMax",
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "Beige",
+      "Yellow",
+      "Olive",
+      "Black",
+      "Navy"
+    ],
+    "collections": "Formal Wear",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/wrap-dress-144.jpg",
+        "altText": "Wrap Dress Image"
+      }
+    ],
+    "rating": 4.9,
+    "numReviews": 11,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-145",
+    "name": "Compression Shirt",
+    "description": "Contemporary compression shirt designed with modern aesthetics and superior comfort in mind.",
+    "price": 97.27,
+    "discountPrice": 80.61,
+    "countInStock": 20,
+    "sku": "AC-624",
+    "category": "Activewear",
+    "brand": "WinterWear",
+    "sizes": [
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Brown",
+      "Green"
+    ],
+    "collections": "Essentials",
+    "material": "Polyester",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/compression-shirt-145.jpg",
+        "altText": "Compression Shirt Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 22,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-146",
+    "name": "Bodycon Dress",
+    "description": "Classic bodycon dress crafted from linen with attention to detail and quality.",
+    "price": 103.99,
+    "discountPrice": 88.15,
+    "countInStock": 56,
+    "sku": "DR-327",
+    "category": "Dresses",
+    "brand": "SummerVibes",
+    "sizes": [
+      "S",
+      "XS",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Green",
+      "Pink",
+      "Burgundy",
+      "Black"
+    ],
+    "collections": "Denim Collection",
+    "material": "Linen",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/bodycon-dress-146.jpg",
+        "altText": "Bodycon Dress Image"
+      }
+    ],
+    "rating": 3.6,
+    "numReviews": 7,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-147",
+    "name": "Raincoat",
+    "description": "High-quality raincoat made from premium cashmere. Perfect for summer collection occasions.",
+    "price": 29.25,
+    "discountPrice": 24.04,
+    "countInStock": 13,
+    "sku": "OU-213",
+    "category": "Outerwear",
+    "brand": "SportMax",
+    "sizes": [
+      "M",
+      "S",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Gray",
+      "Black",
+      "Orange",
+      "Brown"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cashmere",
+    "gender": "Men",
+    "images": [
+      {
+        "url": "/images/products/raincoat-147.jpg",
+        "altText": "Raincoat Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 9,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-148",
+    "name": "Formal Blazer",
+    "description": "Stylish formal blazer featuring comfortable fit and durable construction. Ideal for everyday wear.",
+    "price": 91.1,
+    "discountPrice": 77.48,
+    "countInStock": 47,
+    "sku": "FO-823",
+    "category": "Formal Wear",
+    "brand": "Modern Fit",
+    "sizes": [
+      "XL",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Tan",
+      "Orange",
+      "Brown",
+      "Olive",
+      "White"
+    ],
+    "collections": "Casual Collection",
+    "material": "Cotton Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/formal-blazer-148.jpg",
+        "altText": "Formal Blazer Image"
+      }
+    ],
+    "rating": 4.0,
+    "numReviews": 27,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-149",
+    "name": "Sports Bra",
+    "description": "Contemporary sports bra designed with modern aesthetics and superior comfort in mind.",
+    "price": 16.17,
+    "discountPrice": 13.02,
+    "countInStock": 10,
+    "sku": "AC-991",
+    "category": "Activewear",
+    "brand": "ElegantWear",
+    "sizes": [
+      "XXL",
+      "XL",
+      "M",
+      "XS",
+      "L"
+    ],
+    "colors": [
+      "Olive",
+      "Black",
+      "Beige"
+    ],
+    "collections": "Summer Collection",
+    "material": "Cotton Blend",
+    "gender": "Unisex",
+    "images": [
+      {
+        "url": "/images/products/sports-bra-149.jpg",
+        "altText": "Sports Bra Image"
+      }
+    ],
+    "rating": 3.8,
+    "numReviews": 50,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "PROD-150",
+    "name": "Bermuda Shorts",
+    "description": "Contemporary bermuda shorts designed with modern aesthetics and superior comfort in mind.",
+    "price": 67.87,
+    "discountPrice": 54.58,
+    "countInStock": 56,
+    "sku": "BO-459",
+    "category": "Bottom Wear",
+    "brand": "SportMax",
+    "sizes": [
+      "XS",
+      "XL",
+      "L",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow",
+      "Green",
+      "White",
+      "Purple"
+    ],
+    "collections": "Summer Collection",
+    "material": "Silk",
+    "gender": "Women",
+    "images": [
+      {
+        "url": "/images/products/bermuda-shorts-150.jpg",
+        "altText": "Bermuda Shorts Image"
+      }
+    ],
+    "rating": 4.2,
+    "numReviews": 21,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
