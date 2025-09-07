@@ -18,6 +18,10 @@ WORKDIR /app/backend
 RUN npm ci --only=production && \
     mkdir -p data public/images/products
 
+# Copy products data and images
+COPY back-end/data/products.json /app/backend/data/products.json
+COPY images/products/ /app/backend/public/images/products/
+
 # Build and prepare frontend
 WORKDIR /app
 COPY front-end /app/frontend
